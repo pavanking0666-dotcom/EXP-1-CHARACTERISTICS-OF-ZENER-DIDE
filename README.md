@@ -36,6 +36,7 @@ Reverse Bias
 Observation Table
 Forward Bias	Reverse Bias
 Voltage (V)	Current (mA)	Voltage (V)	Current (mA)
+<img width="703" height="490" alt="Screenshot 2026-09-19 150340" src="https://github.com/user-attachments/assets/7153ea45-c070-4d6c-a3ca-ab372c522753" />
 			
 			
 			
